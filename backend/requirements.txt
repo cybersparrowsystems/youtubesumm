@@ -1,0 +1,14 @@
+flask
+flask-cors
+youtube-transcript-api==0.4.4
+deep-translator
+gtts
+spacy
+nltk
+tensorflow
+tf-keras
+transformers
+torch
+sentencepiece
+protobuf
+reportlab
